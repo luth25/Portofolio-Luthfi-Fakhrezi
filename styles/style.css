@@ -195,11 +195,11 @@ nav ul li a {
 }
 
 .services .pre-title {
-    margin: 0 auto;
+    text-align: left;
 }
 
 .services-title {
-    text-align: center;
+    text-align: left;
 }
 
 .service {
