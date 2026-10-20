@@ -288,7 +288,7 @@ nav ul li a {
 /* Skills & Education */
 #skills {
     padding: var(--sectionPadding);
-    background: var(--thirdBackgroundColor);
+    background: var(--primaryBackgroundColor);
 }
 
 .skills-grid {
