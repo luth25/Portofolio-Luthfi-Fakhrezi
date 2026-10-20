@@ -163,7 +163,7 @@ nav ul li a {
 
 /* Hero Section */
 #hero {
-    height: 450px;
+    height: 650px;
     display: grid;
     grid-template-columns: 1fr 1fr;
     align-items: center;
